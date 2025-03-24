@@ -34,8 +34,7 @@ The dataset consists of MRI images of brain scans categorized as tumorous and no
 
 Clone the repository:
 
-git clone https://github.com/your-repo/brain-tumor-detection.git
-cd brain-tumor-detection
+git clone (https://github.com/Lopamudra789/-Brain-Tumor-Detection-Using-Deep-Learning)
 
 ## Install dependencies:
 
